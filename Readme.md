@@ -1,3 +1,12 @@
+# Attention 
+
+This repository is deprecated and will not be updated anymore.
+
+Please see https://github.com/mschwemer/typo3scan-src for current releases. The phar is also availble there. 
+
+---
+
+
 # TYPO3 scanner
 Scans code for usage of deprecated and or changed code.
 
